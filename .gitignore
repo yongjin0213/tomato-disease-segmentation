@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# Datasets and weights
+datasets/
+*.pt
+*.pth
+*.safetensors
+
+# Generated results
+results/
+runs/
+
+# Environment
+.env
+.DS_Store
